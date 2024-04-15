@@ -1,0 +1,13 @@
+.registration-form{
+    text-align: center;
+}
+
+.divField{
+    text-align: right;
+    padding-right: 40%;
+}
+
+.success-message{
+    text-align: center;
+    margin-top: 20%;
+}

@@ -1,0 +1,56 @@
+.displayProducts {
+  display: inline-block;
+  max-width: 50%;
+
+  margin-bottom: 1000px;
+
+}
+
+.summary {
+  display: inline-block;
+  position: absolute;
+  margin-left: 60%;
+ 
+  width: 350px;
+}
+
+.subtotal{
+    display: inline-block;
+  
+    width: auto;
+}
+
+.subtotalPrice{
+    display: inline-block;
+    margin-left: 49%;
+    width: 110px;
+    text-align: right;
+   
+}
+
+.handling{
+    display: inline-block;
+    width: auto;
+}
+
+.handlingPrice{
+    display: inline-block;
+    margin-left: 20.5%;
+    width: 119px;
+    text-align: right;
+}
+
+.totalPrice {
+    text-align: right;
+  margin-top: 100%;
+
+}
+
+.diliveryOption{
+    width: 150px;
+}
+
+.totalPriceDiv{
+    display: none;
+    background-color: blue;
+}

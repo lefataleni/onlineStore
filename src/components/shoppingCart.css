@@ -1,0 +1,12 @@
+.ShoppingCartNav{
+    text-align: center; 
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.cartInfo{
+    font-size: small;
+}

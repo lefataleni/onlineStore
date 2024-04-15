@@ -1,0 +1,49 @@
+/* .totalPriceDiv{
+  background-color: red;
+
+
+}
+
+.productsDiv{
+ 
+  background-color: blue;
+}
+
+.totalPrice{
+  margin-right: 60%;
+}
+
+/* .mainDiv{
+  
+} */ 
+
+
+
+/* .mainProductDiv{
+
+} */
+
+.row{
+  display: flex;
+}
+
+.col1{
+  display: inline-block;
+  margin-left: 5%;
+}
+
+.col2{
+  display: inline-block;
+  background-color: grey;
+  color: black;
+  border-radius: 15px;
+  border-color: white;
+  border-width: 30px;
+  width: 9%;  
+  position: fixed;
+}
+
+h1{
+  text-align: center;
+}
+
